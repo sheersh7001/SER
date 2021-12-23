@@ -215,3 +215,10 @@ body{
     align-self: center;
     align-items: center;
 }
+
+.devcontainer{
+    align-content: center;
+    height: 300px;
+    width: fit-content;
+    margin: 50px;
+}
