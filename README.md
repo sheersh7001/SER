@@ -10,4 +10,4 @@ Web Interface is done by DJANGO library of the Python.
 
 The Model have the accuracy score of 78% and is dumped into a pickle file to ready-to-use.
 
-RAVDESS Dataset from kraggle has been used for training the model.
+RAVDESS Dataset from kaggle has been used for training the model.
